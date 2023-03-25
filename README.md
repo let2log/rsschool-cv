@@ -1,1 +1,1 @@
-## https://let2log.github.io/rsschool-cv/cv
+## https://let2log.github.io/rsschool-cv/
